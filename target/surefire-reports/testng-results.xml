@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="62" started-at="2020-12-03T17:16:27Z" finished-at="2020-12-03T17:16:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="62" started-at="2020-12-03T17:16:27Z" finished-at="2020-12-03T17:16:27Z">
+      <class name="qa.maven.adi.MavenProject.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:qa.maven.adi.MavenProject.AppiumTest@3567135c]" name="IOSApps" duration-ms="10" started-at="2020-12-03T17:16:27Z" finished-at="2020-12-03T17:16:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAndroid()[pri:0, instance:qa.maven.adi.MavenProject.AppiumTest@3567135c]" name="NativeAndroid" duration-ms="0" started-at="2020-12-03T17:16:27Z" finished-at="2020-12-03T17:16:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAndroid -->
+      </class> <!-- qa.maven.adi.MavenProject.AppiumTest -->
+      <class name="qa.maven.adi.MavenProject.RestAPITest">
+        <test-method status="PASS" signature="postJira()[pri:0, instance:qa.maven.adi.MavenProject.RestAPITest@4157f54e]" name="postJira" duration-ms="0" started-at="2020-12-03T17:16:27Z" finished-at="2020-12-03T17:16:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:qa.maven.adi.MavenProject.RestAPITest@4157f54e]" name="deleteTwitter" duration-ms="0" started-at="2020-12-03T17:16:27Z" finished-at="2020-12-03T17:16:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- qa.maven.adi.MavenProject.RestAPITest -->
+      <class name="qa.maven.adi.MavenProject.SeleniumTest">
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:qa.maven.adi.MavenProject.SeleniumTest@327471b5]" name="elementsUI" duration-ms="0" started-at="2020-12-03T17:16:27Z" finished-at="2020-12-03T17:16:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qa.maven.adi.MavenProject.SeleniumTest@327471b5]" name="BrowserAutomation" duration-ms="0" started-at="2020-12-03T17:16:27Z" finished-at="2020-12-03T17:16:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- qa.maven.adi.MavenProject.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
