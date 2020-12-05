@@ -11,6 +11,7 @@ public class AppiumTest {
 		System.out.println("IST code commit");
 		System.out.println("American Guy commit");
 		System.out.println("Commit from Framework Branch");
+		System.out.println("Commit from Framework Branch from Gitx");
 	}
 	
 	@Test
