@@ -10,6 +10,7 @@ public class AppiumTest {
 		System.out.println("NativeAndroid");
 		System.out.println("IST code commit");
 		System.out.println("American Guy commit");
+		System.out.println("Commit from Framework Branch");
 	}
 	
 	@Test
