@@ -8,6 +8,7 @@ public class AppiumTest {
 	public void NativeAndroid(){
 		
 		System.out.println("NativeAndroid");
+		System.out.println("IST code commit");
 	}
 	
 	@Test
